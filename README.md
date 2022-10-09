@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandon-burkett&label=Profile%20views&color=0e75b6&style=flat" alt="brandon-burkett" /> </p>
 
-<h2>Hello there! 👋</h2>
+<h2>👋 Hello there!</h2>
 
 I'm Brandon Burkett! 
 
