@@ -5,9 +5,9 @@
 
 I'm Brandon Burkett! 
 
-- <i>Currently:</i> Senior Computer Science & Engineering student at Bucknell University. 
+- I'm currently a Senior Computer Science & Engineering student at Bucknell University. 
 
-<h2>💻 I'm Currently workng on</h2>
+<h2>💻 I'm workng on</h2>
 
 - 🔭 [SpotifyAutoPause](https://github.com/Brandon-Burkett/SpotifyAutoPause)
 
@@ -15,9 +15,9 @@ I'm Brandon Burkett!
 
 <h2>About Me</h2>
 
-- 📖 Learn more about me: [About Brandon](https://brandondburkett.com/about)
+- 📖 Learn more about me: [www.brandondburkett.com/about](https://brandondburkett.com/about)
 
-- 📄 Know about my experiences: [www.brandondburkett.com/resume.pdf](www.brandondburkett.com/resume.pdf)
+- 📄 Learn about my experiences: [www.brandondburkett.com/resume.pdf](www.brandondburkett.com/resume.pdf)
 
 <h2>📫 How to reach me</h2>
 
