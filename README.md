@@ -1,7 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brandon-burkett&label=Profile%20views&color=0e75b6&style=flat" alt="brandon-burkett" /> </p>
 
 <h2>Hello there! 👋</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brandon-burkett&label=Profile%20views&color=0e75b6&style=flat" alt="brandon-burkett" /> </p>
 
 I'm Brandon Burkett! 
 
@@ -13,7 +12,7 @@ I'm Brandon Burkett!
 
 - 👨‍💻 My personal website: [www.brandondburkett.com](www.brandondburkett.com)
 
-<h2>About Me</h2>
+<h2> ℹ About Me</h2>
 
 - 📖 Learn more about me: [www.brandondburkett.com/about](https://brandondburkett.com/about)
 
