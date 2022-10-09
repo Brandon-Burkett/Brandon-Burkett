@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **brandondburkett@gmail.com**
 
-- 😄 Pronouns: he/him
-
 - 📄 Know about my experiences [www.brandondburkett.com/resume.pdf](www.brandondburkett.com/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
