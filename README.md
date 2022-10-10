@@ -4,7 +4,7 @@
 
 I'm Brandon Burkett! 
 
-- I'm currently a Senior Computer Science & Engineering student at Bucknell University. 
+- 📚 I'm currently a Senior Computer Science & Engineering student at Bucknell University. 
 
 <h2>💻 I'm workng on</h2>
 
