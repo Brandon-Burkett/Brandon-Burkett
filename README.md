@@ -10,13 +10,13 @@ I'm Brandon Burkett!
 
 - 🔭 [SpotifyAutoPause](https://github.com/Brandon-Burkett/SpotifyAutoPause)
 
-- 👨‍💻 My personal website: [www.brandondburkett.com](www.brandondburkett.com)
+- 👨‍💻 My personal website: [www.brandondburkett.com](https://www.brandondburkett.com)
 
 <h2> ℹ About Me</h2>
 
 - 📖 Learn more about me: [www.brandondburkett.com/about](https://brandondburkett.com/about)
 
-- 📄 Learn about my experiences: [www.brandondburkett.com/resume.pdf](www.brandondburkett.com/resume.pdf)
+- 📄 Learn about my experiences: [www.brandondburkett.com/resume.pdf](https://www.brandondburkett.com/resume.pdf)
 
 <h2>📫 How to reach me</h2>
 
