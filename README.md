@@ -8,7 +8,7 @@ I'm Brandon Burkett!
 
 <h2>💻 I'm workng on</h2>
 
-- 🔭 [SpotifyAutoPause](https://github.com/Brandon-Burkett/SpotifyAutoPause)
+- 🔭 My Google Chrome Extension: [SpotifyAutoPause](https://github.com/Brandon-Burkett/SpotifyAutoPause)
 
 - 👨‍💻 My personal website: [www.brandondburkett.com](https://www.brandondburkett.com)
 
